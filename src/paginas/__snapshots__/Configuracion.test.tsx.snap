@@ -1,0 +1,26 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`La página de configuración > Debe ser renderizada correctamente 1`] = `
+<div>
+  <form>
+    <input
+      placeholder="Ingrese los nombres de los participantes"
+      type="text"
+      value=""
+    />
+    <button
+      disabled=""
+    >
+      Agregar
+    </button>
+  </form>
+  <ul />
+  <footer>
+    <button
+      disabled=""
+    >
+      Iniciar Juego
+    </button>
+  </footer>
+</div>
+`;
